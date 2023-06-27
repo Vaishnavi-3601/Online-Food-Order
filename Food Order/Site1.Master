@@ -1,0 +1,250 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Food_Order.Site1" %>
+
+<!DO                                 CTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <style>
+
+       head h1
+        {
+            color:black;
+            font-size:40px;
+        }
+
+       .head
+       {
+           background-color:#e5e4e2;
+           padding:15px;
+       }
+
+       body
+       {
+           margin:0px;
+       }
+
+       .nav
+       {
+           background-color:#c5c6c0;
+           padding:10px;
+           text-align:right;
+       }
+
+       a
+       {
+           color:black;
+           padding-left:10px;
+           padding-right:10px;
+           text-decoration:none;
+           font-size:18px;
+       }
+
+       a:hover
+       {
+           background-color:black;
+           color:white;
+       }
+
+       .foot
+       {
+           text-align:center;
+           padding:10px;
+           background-color:black;
+           color:white;
+           font-size:18px;
+       }
+
+       .login
+       {
+           height:400px;
+           padding-top:30px;
+       }
+
+       .inlogin
+       {
+           width:40%;
+           margin-left:27%;
+           padding:30px;
+           text-align:center;
+           background-color:#e5e4e2;
+           padding-bottom:30px;
+       }
+       input[type=text], input[type=password], input[type=email], input[type=number]
+       {
+           padding:8px;
+           border-radius:4px;
+           margin-bottom:10px;
+       }
+       input[type=submit]
+       {
+           padding:8px;
+           width:190px;
+           cursor:pointer;
+           background-color:#c5c6c0;
+           color:black;   
+       }
+       select
+       {
+           padding:8px;
+           width:190px;
+           cursor:pointer;  
+       }
+       .r::after
+       {
+           display:table ;
+               clear:both;
+               content:"";
+
+       }
+       .c1
+       {
+           float:left;
+           height:400px;
+           width:40%;
+       }
+       .uh
+       {
+           padding:40px;
+           height:400px;
+           text-align:center;
+       }
+       .bo
+       {
+           padding:40px;
+           height:400px;
+          
+       }
+
+       .row:after{
+           content:"";
+           display:table;
+           clear:both;
+       }
+
+       .col2{
+           height:350px;
+           width:25%;
+           float:left;
+       }
+
+       .col2 img{
+           padding-left:15px;
+           padding-top:15px;
+       }
+
+         .col1{
+           height:350px;
+           width:50%;
+           float:left;
+           background-color:#e5e4e2;
+       }
+
+       .col1 img{
+           padding-left:135px;
+           padding-top:25px;
+       }
+
+             .col31{
+           height:350px;
+           width:30%;
+           float:left;
+           background-color:#e5e4e2;
+           padding-left:50px;
+           text-align:center;
+       }
+         .col32{
+           height:350px;
+           width:30%;
+                      padding-left:50px;
+           text-align:center;
+           float:left;
+       }
+
+ .col33{
+           height:350px;
+           width:30%;
+           background-color:#e5e4e2;
+           float:left;
+                      padding-left:50px;
+           text-align:center;
+       }
+
+ .col01{
+           height:350px;
+           width:50%;
+           float:left;
+           background-color:#e5e4e2;
+       }
+
+        .col01 img{
+            padding-left:115px;
+            padding-top:15px;
+             
+        }    
+ .about{
+     
+     padding:30px;
+     font-size:20px;
+     width:80%;
+     margin-left:10%;
+     background-color:#faf7f7;
+ }
+ </style>
+
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+
+        <div class="head">
+            <h1 style="font-family: 'Comic Sans MS'"> Taste Onway</h1>
+        </div>
+
+         <div class="nav">
+             <a href="home.aspx"> Home</a>`
+             <a href="foods.aspx"> Food</a>
+             <a href="cart.aspx"> Cart</a>
+
+             <% if (Session["admin"] != null)
+                 {%>
+             <a href="adminhome.aspx"> Adminhome</a>
+             <a href="logout.aspx"> Logout</a>
+
+             <%}
+                 else if (Session["user"]!= null)
+                     {
+                     %><a href="userhome.aspx"> Userhome</a>
+             <a href="logout.aspx"> Logout</a>
+
+                <% }
+
+
+
+                 else
+                 {%>
+             
+
+             <a href="login.aspx"> Login</a>
+             <a href="register.aspx">Register</a>
+         
+             <%} %>
+             <a href="contact.aspx">Contact</a>
+             <a href="about.aspx">About</a>
+         </div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
+        
+        </asp:ContentPlaceHolder>
+
+        <div class="foot">
+            Copyright @2021 All rights reserved.| Developed by Team.
+        </div>
+
+    </div>
+    </form>
+</body>
+</html>

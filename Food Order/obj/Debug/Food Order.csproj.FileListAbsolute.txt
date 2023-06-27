@@ -1,0 +1,99 @@
+c:\users\dell\documents\visual studio 2015\Projects\Food Order\Food Order\bin\ApplicationInsights.config
+c:\users\dell\documents\visual studio 2015\Projects\Food Order\Food Order\bin\roslyn\csc.exe
+c:\users\dell\documents\visual studio 2015\Projects\Food Order\Food Order\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\dell\documents\visual studio 2015\Projects\Food Order\Food Order\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\dell\documents\visual studio 2015\Projects\Food Order\Food Order\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\dell\documents\visual studio 2015\Projects\Food Order\Food Order\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\dell\documents\visual studio 2015\Projects\Food Order\Food Order\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\dell\documents\visual studio 2015\Projects\Food Order\Food Order\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\dell\documents\visual studio 2015\Projects\Food Order\Food Order\bin\roslyn\System.Collections.Immutable.dll
+c:\users\dell\documents\visual studio 2015\Projects\Food Order\Food Order\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\dell\documents\visual studio 2015\Projects\Food Order\Food Order\bin\roslyn\vbc.exe
+c:\users\dell\documents\visual studio 2015\Projects\Food Order\Food Order\bin\roslyn\VBCSCompiler.exe
+c:\users\dell\documents\visual studio 2015\Projects\Food Order\Food Order\bin\roslyn\VBCSCompiler.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\Food Order\Food Order\bin\Food Order.dll.config
+c:\users\dell\documents\visual studio 2015\Projects\Food Order\Food Order\bin\Food Order.dll
+c:\users\dell\documents\visual studio 2015\Projects\Food Order\Food Order\bin\Food Order.pdb
+c:\users\dell\documents\visual studio 2015\Projects\Food Order\Food Order\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\dell\documents\visual studio 2015\Projects\Food Order\Food Order\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\dell\documents\visual studio 2015\Projects\Food Order\Food Order\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\dell\documents\visual studio 2015\Projects\Food Order\Food Order\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\dell\documents\visual studio 2015\Projects\Food Order\Food Order\bin\Microsoft.AI.Web.dll
+c:\users\dell\documents\visual studio 2015\Projects\Food Order\Food Order\bin\Microsoft.AI.WindowsServer.dll
+c:\users\dell\documents\visual studio 2015\Projects\Food Order\Food Order\bin\Microsoft.ApplicationInsights.dll
+c:\users\dell\documents\visual studio 2015\Projects\Food Order\Food Order\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\dell\documents\visual studio 2015\Projects\Food Order\Food Order\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\dell\documents\visual studio 2015\Projects\Food Order\Food Order\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\dell\documents\visual studio 2015\Projects\Food Order\Food Order\bin\Microsoft.AI.Web.xml
+c:\users\dell\documents\visual studio 2015\Projects\Food Order\Food Order\bin\Microsoft.AI.WindowsServer.xml
+c:\users\dell\documents\visual studio 2015\Projects\Food Order\Food Order\bin\Microsoft.ApplicationInsights.xml
+c:\users\dell\documents\visual studio 2015\Projects\Food Order\Food Order\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\dell\documents\visual studio 2015\Projects\Food Order\Food Order\obj\Debug\Food Order.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\Food Order\Food Order\obj\Debug\Food Order.dll
+c:\users\dell\documents\visual studio 2015\Projects\Food Order\Food Order\obj\Debug\Food Order.pdb
+C:\Users\vaish\OneDrive\Documents\Visual Studio 2015\Projects\Food Order\Food Order\bin\ApplicationInsights.config
+C:\Users\vaish\OneDrive\Documents\Visual Studio 2015\Projects\Food Order\Food Order\bin\roslyn\csc.exe
+C:\Users\vaish\OneDrive\Documents\Visual Studio 2015\Projects\Food Order\Food Order\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vaish\OneDrive\Documents\Visual Studio 2015\Projects\Food Order\Food Order\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vaish\OneDrive\Documents\Visual Studio 2015\Projects\Food Order\Food Order\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vaish\OneDrive\Documents\Visual Studio 2015\Projects\Food Order\Food Order\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vaish\OneDrive\Documents\Visual Studio 2015\Projects\Food Order\Food Order\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vaish\OneDrive\Documents\Visual Studio 2015\Projects\Food Order\Food Order\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vaish\OneDrive\Documents\Visual Studio 2015\Projects\Food Order\Food Order\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vaish\OneDrive\Documents\Visual Studio 2015\Projects\Food Order\Food Order\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vaish\OneDrive\Documents\Visual Studio 2015\Projects\Food Order\Food Order\bin\roslyn\vbc.exe
+C:\Users\vaish\OneDrive\Documents\Visual Studio 2015\Projects\Food Order\Food Order\bin\roslyn\VBCSCompiler.exe
+C:\Users\vaish\OneDrive\Documents\Visual Studio 2015\Projects\Food Order\Food Order\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vaish\OneDrive\Documents\Visual Studio 2015\Projects\Food Order\Food Order\bin\Food Order.dll.config
+C:\Users\vaish\OneDrive\Documents\Visual Studio 2015\Projects\Food Order\Food Order\bin\Food Order.dll
+C:\Users\vaish\OneDrive\Documents\Visual Studio 2015\Projects\Food Order\Food Order\bin\Food Order.pdb
+C:\Users\vaish\OneDrive\Documents\Visual Studio 2015\Projects\Food Order\Food Order\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\vaish\OneDrive\Documents\Visual Studio 2015\Projects\Food Order\Food Order\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\vaish\OneDrive\Documents\Visual Studio 2015\Projects\Food Order\Food Order\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\vaish\OneDrive\Documents\Visual Studio 2015\Projects\Food Order\Food Order\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\vaish\OneDrive\Documents\Visual Studio 2015\Projects\Food Order\Food Order\bin\Microsoft.AI.Web.dll
+C:\Users\vaish\OneDrive\Documents\Visual Studio 2015\Projects\Food Order\Food Order\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\vaish\OneDrive\Documents\Visual Studio 2015\Projects\Food Order\Food Order\bin\Microsoft.ApplicationInsights.dll
+C:\Users\vaish\OneDrive\Documents\Visual Studio 2015\Projects\Food Order\Food Order\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vaish\OneDrive\Documents\Visual Studio 2015\Projects\Food Order\Food Order\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\vaish\OneDrive\Documents\Visual Studio 2015\Projects\Food Order\Food Order\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\vaish\OneDrive\Documents\Visual Studio 2015\Projects\Food Order\Food Order\bin\Microsoft.AI.Web.xml
+C:\Users\vaish\OneDrive\Documents\Visual Studio 2015\Projects\Food Order\Food Order\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\vaish\OneDrive\Documents\Visual Studio 2015\Projects\Food Order\Food Order\bin\Microsoft.ApplicationInsights.xml
+C:\Users\vaish\OneDrive\Documents\Visual Studio 2015\Projects\Food Order\Food Order\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vaish\OneDrive\Documents\Visual Studio 2015\Projects\Food Order\Food Order\obj\Debug\Food Order.csprojResolveAssemblyReference.cache
+C:\Users\vaish\OneDrive\Documents\Visual Studio 2015\Projects\Food Order\Food Order\obj\Debug\Food Order.dll
+C:\Users\vaish\OneDrive\Documents\Visual Studio 2015\Projects\Food Order\Food Order\obj\Debug\Food Order.pdb
+C:\Users\vaish\OneDrive\Documents\Food Order\Food Order\bin\ApplicationInsights.config
+C:\Users\vaish\OneDrive\Documents\Food Order\Food Order\bin\roslyn\csc.exe
+C:\Users\vaish\OneDrive\Documents\Food Order\Food Order\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vaish\OneDrive\Documents\Food Order\Food Order\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vaish\OneDrive\Documents\Food Order\Food Order\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vaish\OneDrive\Documents\Food Order\Food Order\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vaish\OneDrive\Documents\Food Order\Food Order\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vaish\OneDrive\Documents\Food Order\Food Order\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vaish\OneDrive\Documents\Food Order\Food Order\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vaish\OneDrive\Documents\Food Order\Food Order\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vaish\OneDrive\Documents\Food Order\Food Order\bin\roslyn\vbc.exe
+C:\Users\vaish\OneDrive\Documents\Food Order\Food Order\bin\roslyn\VBCSCompiler.exe
+C:\Users\vaish\OneDrive\Documents\Food Order\Food Order\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vaish\OneDrive\Documents\Food Order\Food Order\bin\Food Order.dll.config
+C:\Users\vaish\OneDrive\Documents\Food Order\Food Order\bin\Food Order.dll
+C:\Users\vaish\OneDrive\Documents\Food Order\Food Order\bin\Food Order.pdb
+C:\Users\vaish\OneDrive\Documents\Food Order\Food Order\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\vaish\OneDrive\Documents\Food Order\Food Order\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\vaish\OneDrive\Documents\Food Order\Food Order\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\vaish\OneDrive\Documents\Food Order\Food Order\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\vaish\OneDrive\Documents\Food Order\Food Order\bin\Microsoft.AI.Web.dll
+C:\Users\vaish\OneDrive\Documents\Food Order\Food Order\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\vaish\OneDrive\Documents\Food Order\Food Order\bin\Microsoft.ApplicationInsights.dll
+C:\Users\vaish\OneDrive\Documents\Food Order\Food Order\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vaish\OneDrive\Documents\Food Order\Food Order\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\vaish\OneDrive\Documents\Food Order\Food Order\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\vaish\OneDrive\Documents\Food Order\Food Order\bin\Microsoft.AI.Web.xml
+C:\Users\vaish\OneDrive\Documents\Food Order\Food Order\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\vaish\OneDrive\Documents\Food Order\Food Order\bin\Microsoft.ApplicationInsights.xml
+C:\Users\vaish\OneDrive\Documents\Food Order\Food Order\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vaish\OneDrive\Documents\Food Order\Food Order\obj\Debug\Food Order.csprojResolveAssemblyReference.cache
+C:\Users\vaish\OneDrive\Documents\Food Order\Food Order\obj\Debug\Food Order.dll
+C:\Users\vaish\OneDrive\Documents\Food Order\Food Order\obj\Debug\Food Order.pdb
